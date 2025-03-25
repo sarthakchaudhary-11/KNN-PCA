@@ -89,15 +89,5 @@ This repository contains implementations of K-Nearest Neighbors (KNN) and Princi
 
 ---
 
-## 📢 **Contributing**
-Feel free to fork the repository, open issues, or submit pull requests. Contributions are welcome! 🚀
 
----
-
-## 📜 **License**
-This project is licensed under the MIT License.
-
----
-
-### 🔥 **Happy Coding! 🚀**
 
